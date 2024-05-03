@@ -4,14 +4,14 @@
 
 ### Сделать ставку
 
-![diagram](image/lab4_2.drawio.png)
+![diagram](image/lab4_2.drawio (2).png )
 
 ### Принять Ставку
 
 ![diagram](image/lab4_3.drawio.png)
 
 ### Повысить ставку
-![diagram](image/lab4-4.drawio.png)
+![diagram](image/lab4_4.drawio.png)
 
 ### Отказаться от ставки
 
