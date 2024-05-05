@@ -4,7 +4,7 @@
 
 ### Сделать ставку
 
-![diagram](image/lab4_2.drawio (2).png )
+![diagram](image/lab4_2.drawio (2).png)
 
 ### Принять Ставку
 
