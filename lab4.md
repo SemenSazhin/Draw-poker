@@ -1,6 +1,6 @@
 ### Начать игру
 
-![diagram](image/lab4.1.1.drawio.png)
+![diagram](image/lab4.1_1.drawio.png)
 
 ### Сделать ставку
 
