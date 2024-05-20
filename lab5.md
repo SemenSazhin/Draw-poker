@@ -1,5 +1,5 @@
 
 
-![diagram](image/lab5.3.drawio.png)
+![diagram](image/lab5.4.drawio.png)
 
 
