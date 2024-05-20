@@ -1,6 +1,6 @@
 ### Начать игру
 
-![diagram](image/lab4.1.3.drawio.png)
+![diagram](image/lab4.1.4.drawio.png)
 
 ### Сделать ставку
 
@@ -8,7 +8,7 @@
 
 ### Принять Ставку
 
-![diagram](image/lab4.3.3.drawio.png)
+![diagram](image/lab4.3.4.drawio.png)
 
 ### Повысить ставку
 ![diagram](image/lab4.4.3.drawio.png)
